@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrpdate",
+        "uuid": 8194744,
+        "checksum": "h7oltl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
